@@ -1,5 +1,5 @@
 /*
-CONNECTIVITY QUCIK FIND ALGORITHM - Pairs of numbers represent network 
+CONNECTIVITY QUICK FIND ALGORITHM - Pairs of numbers represent network 
 connections so finds the start and end point of connections.
 
 Reads a sequence of pairs of nonnegative integers less than N from standard 
